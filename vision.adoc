@@ -27,14 +27,18 @@ siehe Glossar (Verweis hier einfügen).
 === Fachliche Motivation
 //Erläutern Sie kurz den Hintergrund, in dem das Projekt angesiedelt ist. Welches Problem soll gelöst werden, wie ist es entstanden? Welche Verbesserung wird angestrebt. Achten Sie darauf, eine fachliche (organisatorische, betriebswirtschaftliche) Perspektive einzunehmen.
 
+Der Barbetreiber wünscht, dass am Ende des Projektes eine funktionierende Website erstellt ist, mit der er in den Online-Markt einsteigen kann.
+Der Barbetreiber möchte auf den Kundenwunsch eingehen und eine höhere Marktreichweite generieren. 
+Dem Barbetreiber ist es wichtig, dass die Software so einfach wie möglich gestaltet wird.
+
 ===	Problem Statement
 //Stellen Sie zusammenfassend das Problem dar, das mit diesem Projekt gelöst werden soll. Das folgende Format kann dazu verwendet werden:
 
 |===
-|Das Problem |	[beschreiben Sie das Problem]
-|betrifft |	[die Stakeholder, die vom Problem betroffen sind]
-|die Auswirkung davon ist |	[welche Auswirkungen hat das Problem?]
-|eine erfolgreiche Lösung wäre |	[Führen Sie einige wesentliche Vorteile einer erfolgreichen Lösung auf]
+|Das Problem |	Besucher der Bar fragten häufig, ob man Cocktails selbst zusammenstellen und ob man diese auch bestellen könnte.
+|betrifft |	Kunden / Barbetreiber
+|die Auswirkung davon ist |	Wunsch nach Variabilitiät/potentieller Umsatz fehlt
+|eine erfolgreiche Lösung wäre |	Online-Shop für Cocktailversand
 |===
 
 // Beispiel
@@ -51,12 +55,12 @@ siehe Glossar (Verweis hier einfügen).
 //Geben Sie in knapper Form übersichtsartig die Positionierung der angestrebten Lösung im Vergleich zu verfügbaren Alternativen dar. Das folgende Format kann dazu verwendet werden:
 
 |===
-|Für|	[Zielkunde / Nutzer]
-|der / die|	[Angabe des Bedarfs oder Chance]
-|Das Produkt / die Lösung ist ein | [Produktkategorie]
-|Die / Das	|[Aussage zum Hauptvorteil / Alleinstellungsmerkmal]
-|Im Gegensatz zu	|[wesentliche Lösungsalternative]
-|Unser Produkt|	[Aussage zum Hauptunterschied]
+|Für|	Barbetreiber / Kunden
+|der / die|	Cocktailzusammenstellung und -versand
+|Das Produkt / die Lösung ist ein | Online-Versand
+|Die / Das	|individuelle Zusammenstellung und den Versand der Cocktails für den Kunden ermöglicht
+|Im Gegensatz zu	|lokale Bestellung
+|Unser Produkt|	ermöglicht mehr Umsatz und Reichweite für den Barbetreiber / ermöglicht individuelle Zusammenstellung und Bestellung von Cocktails für den Kunden
 |===
 
 
@@ -76,7 +80,7 @@ siehe Glossar (Verweis hier einfügen).
 [%header]
 |===
 |Name|	Beschreibung	| Verantwortlichkeiten
-|[Benennung des Stakeholder-Typs.]	|[Kurze Beschreibung des Stakeholders.]	|[Fassen Sie die wesentlichen Verantwortlichkeiten des Stakeholder mit Bezug auf das zu entwickelnde System kurz zusammen, d.h. ihr besonderen Interessen. Beispiele: Dieser Stakeholder sorgt dafür, dass das System gewartet wird / dass die angezeigten Daten aktuell sind / überwacht den Projektfortschritt / usw.]
+|Barbetreiber	| er wird mit dem System Geld verdienen	|er gibt die Vorgabe für das Projekt und muss später mit der Software arbeiten können|Kunden|möchte möglichst unkompliziert online bestellen|er wird die Webseite nutzen|Softwareentwickler|effiziente Entwicklung der Software|er soll das System erstellen und dabei die Wünsche des Barbetreibers umsetzen, Wartung des Systems
 |===
 
 ===	Benutzerumgebung
