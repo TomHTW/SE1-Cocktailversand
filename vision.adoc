@@ -60,7 +60,7 @@ Dem Barbetreiber ist es wichtig, dass die Software so einfach wie möglich gesta
 |Das Produkt / die Lösung ist ein | Online-Versand
 |Die / Das	|individuelle Zusammenstellung und den Versand der Cocktails für den Kunden ermöglicht
 |Im Gegensatz zu	|lokale Bestellung
-|Unser Produkt|	ermöglicht mehr Umsatz und Reichweite für den Barbetreiber / ermöglicht individuelle Zusammenstellung und Bestellung von Cocktails für den Kunden
+|Unser Produkt|	ermöglicht mehr Umsatz und Reichweite für den Barbetreiber / ermöglicht individuelle Zusammenstellung und Bestellung von Cocktails für den Kunden.
 |===
 
 
