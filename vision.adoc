@@ -35,10 +35,10 @@ Dem Barbetreiber ist es wichtig, dass die Software so einfach wie möglich gesta
 //Stellen Sie zusammenfassend das Problem dar, das mit diesem Projekt gelöst werden soll. Das folgende Format kann dazu verwendet werden:
 
 |===
-|Das Problem |	Besucher der Bar fragten häufig, ob man Cocktails selbst zusammenstellen und ob man diese auch bestellen könnte.
-|betrifft |	Kunden / Barbetreiber
-|die Auswirkung davon ist |	Wunsch nach Variabilitiät/potentieller Umsatz fehlt
-|eine erfolgreiche Lösung wäre |	Online-Shop für Cocktailversand
+|Das Problem |	Barbetreiber möchte seine Cocktails online vertreiben können.
+|betrifft |	Barbetreiber / Kunden
+|die Auswirkung davon ist |	Ungenutztes Marktpotenzial / nur lokaler Verkauf möglich / Verlust von Kunden möglich
+|eine erfolgreiche Lösung wäre |	Onlinebestellsystem für Cocktailversand
 |===
 
 // Beispiel
@@ -55,12 +55,12 @@ Dem Barbetreiber ist es wichtig, dass die Software so einfach wie möglich gesta
 //Geben Sie in knapper Form übersichtsartig die Positionierung der angestrebten Lösung im Vergleich zu verfügbaren Alternativen dar. Das folgende Format kann dazu verwendet werden:
 
 |===
-|Für|	Barbetreiber(Nicer Cock) / Kunden
+|Für|   Privatkunden
 |der / die|	Cocktailzusammenstellung und -versand
 |Das Produkt / die Lösung ist ein | Online-Versand
 |Die / Das	|individuelle Zusammenstellung und den Versand der Cocktails für den Kunden ermöglicht
 |Im Gegensatz zu	|lokale Bestellung
-|Unser Produkt|	ermöglicht mehr Umsatz und Reichweite für den Barbetreiber / ermöglicht individuelle Zusammenstellung und Bestellung von Cocktails für den Kunden.
+|Unser Produkt|	ermöglicht sowohl individuelle als auch bequeme Zusammenstellung und Bestellung von Cocktails für den Kunden.
 |===
 
 
@@ -80,7 +80,7 @@ Dem Barbetreiber ist es wichtig, dass die Software so einfach wie möglich gesta
 [%header]
 |===
 |Name|	Beschreibung	| Verantwortlichkeiten
-|Barbetreiber	| er wird mit dem System Geld verdienen	|er gibt die Vorgabe für das Projekt und muss später mit der Software arbeiten können|Kunden|möchte möglichst unkompliziert online bestellen|er wird die Webseite nutzen|Softwareentwickler|effiziente Entwicklung der Software|er soll das System erstellen und dabei die Wünsche des Barbetreibers umsetzen, Wartung des Systems
+|Barbetreiber	| Geschäftsführer und Auftraggeber der Bar	|Er gibt die Vorgabe für das Projekt und muss später mit der Software arbeiten können|Kunden|Möchte Getränke bestellen|Nutzt Bestellsoftware|Softwareentwickler|Entwicklung der Software|Er soll das System erstellen und dabei die Wünsche des Barbetreibers umsetzen, Wartung des Systems|Gesundheitsamt|Prüft Einhaltung der Gesetze|Einhaltung der Gesundheitsrichtlinien|Oberste Landesjugendbehörde|Prüft Einhaltung der Gesetze|Einhaltung des Jugendschutzgesetzes|Lieferdienst|Liefert Produkt an den Kunden|Muss Bestellungen registrieren und ausführen|Barmitarbeiter|Umsetzung der Kundenwünsche|Vorbereitung auf Versand|
 |===
 
 ===	Benutzerumgebung
@@ -102,7 +102,7 @@ Hier können zudem bei Bedarf Teile des Unternehmensmodells (Prozesse, Organigra
 [%header]
 |===
 |Bedarf|	Priorität|	Features|	Geplantes Release
-|xx|xx|xx|xx
+|Bestellung|hoch|diverse Zusammenstellungen|morgen|Versand|hoch|Bereitstellung der für die Lieferung wichtigen Daten|gestern|Werbung|niedrig|Spammails|heute|Kundenkonto|mittel|Rabatte|-
 |===
 			
 
@@ -118,7 +118,7 @@ Hinweise:
 [%header]
 |===
 |Anforderung|	Priorität|	Geplantes Release
-|xx|xx|xx|
+|Benutzbarkeit (max. 5 Klicks von Startseite zur Bestellung)|hoch|-|Transparenz (Warenkorb immer einsehbar)|hoch|-|Schutz vor Betrug|hoch|-|Hohe Bildqualität|mittel|-|
 |===
 		
 
