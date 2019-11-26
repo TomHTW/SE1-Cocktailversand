@@ -8,4 +8,28 @@ Vorname Nachname <email@domain.org>; Vorname2 Nachname2 <email2@domain.org>; Vor
 
 //Fügen Sie nachfolgend eine Liste aller Use-Cases per Include ein.
 //Dafür sollten Sie pro Use-Case eine Datei anlegen, die auf dem usecase_spec.adoc Template basiert.
+
+|===
+|Akteur|Ziel|Use Case
+//|Kommissionierung|Bereitstellung von Waren aus einem Lager entsprechend eines Kundenauftrags|(keine))|
+|Kunde|Cocktail bestellen|Bestellung aufgeben
+|Barmitarbeiter|Arbeiten-Cocktail passend zumixen|Bestellung bearbeiten
+|Barmitarbeiter||Kundenkonto pflegen
+|Softwareentwickler|Programm warten|System warten
+|Barbetreiber||Cocktails anbieten
+|Lieferdienst|Lieferung ausführen|Adressdaten auslesen
+|Kunde||Kundenkonto erstellen
+|Barbetreiber||Werbung einfügen
+|Kunde||Cocktail mixen
+|Kunde||Kundenkonto bearbeiten
+|Kunde||Warenkorb anzeigen
+|Barbetreiber||Kunden sperren
+|Barbetreiber||Finanzen ausgeben
+|Barmitarbeiter||Probleme verwalten
+|===
+
 include::usecase_spec.adoc[]
+include::usecase_spec2.adoc[]
+include::usecase_spec3.adoc[]
+
+

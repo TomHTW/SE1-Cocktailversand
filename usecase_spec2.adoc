@@ -1,27 +1,27 @@
 //Nutzen Sie dieses Template als Grundlage für die Spezifikation *einzelner* Use-Cases. Diese lassen sich dann per Include in das Use-Case Model Dokument einbinden (siehe Beispiel dort).
-== Use-Case: Bestellung aufgeben
+== Use-Case: Bestellung bearbeiten
 ===	Kurzbeschreibung
-//<Kurze Beschreibung des Use Case>
-Kunde gibt Bestellung im Onlinebestellsystem auf.
+Barmitarbeiter registriert Bestellung und beginnt die Bearbeitung
 
 ===	Kurzbeschreibung der Akteure
-==== Kunde
+==== Barmitarbeiter
 
 === Vorbedingungen
 //Vorbedingungen müssen erfüllt, damit der Use Case beginnen kann, z.B. Benutzer ist angemeldet, Warenkorb ist nicht leer...
-. Benutzer angemeldet
-. Altersverifizierung abgeschlossen
-. Bezahlmethode ausgewählt 
-. Software funktionsbereit
+. Bestellvorgang des Kunden abgeschlossen
+. Software funktioniert
+. Mitarbeiter atmet
 
 === Standardablauf (Basic Flow)
 //Der Standardablauf definiert die Schritte für den Erfolgsfall ("Happy Path")
 
-. Der Use Case beginnt, wenn Kunde Produkt zum Warenkorb hinzufügt
-. Im Kundenkonto hinterlegte Daten bestätigen
-. AGB akzeptieren
-. Bezahlmethode akzeptieren
-. Kauf bestätigen
+. Der Use Case beginnt, wenn Bestellung eingeht
+. freier Mitarbeiter für Onlinebestellung 
+. prüft Bestelldaten 
+. markiert, dass Bestellung in Bearbeitung
+. kontaktiert Lieferdienst
+. mixen
+. markiert Bestellung als fertig
 . Der Use Case ist abgeschlossen.
 
 === Alternative Abläufe

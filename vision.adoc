@@ -35,8 +35,8 @@ Dem Barbetreiber ist es wichtig, dass die Software so einfach wie möglich gesta
 //Stellen Sie zusammenfassend das Problem dar, das mit diesem Projekt gelöst werden soll. Das folgende Format kann dazu verwendet werden:
 
 |===
-|Das Problem |	Barbetreiber möchte seine Cocktails online vertreiben können.
-|betrifft |	Barbetreiber / Kunden
+|Das Problem |	Barbetreiber möchte seine Cocktails vertreiben und individuell anbieten.
+|betrifft |	Barbetreiber 
 |die Auswirkung davon ist |	Ungenutztes Marktpotenzial / nur lokaler Verkauf möglich / Verlust von Kunden möglich
 |eine erfolgreiche Lösung wäre |	Onlinebestellsystem für Cocktailversand
 |===
